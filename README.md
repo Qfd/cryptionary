@@ -15,12 +15,11 @@ See also
 
 A decentralised Ethereum exchange that aims to solve some of the issues with other decentralised exchanges with their _swap_ protocol.
 
-## NEO (NEO & GAS)
+## AlphaBay
 
-[site](https://neo.org/)
-[wikipedia](<https://en.wikipedia.org/wiki/NEO_(cryptocurrency)>)
+[wikipedia](https://en.wikipedia.org/wiki/AlphaBay)
 
-Formerly Antshares, NEO is a blockchain supporting smart contracts and is often compared to Ethereum. Strong ties to chinese organisations and possibly government.
+Todo
 
 ## Ardor
 
@@ -33,7 +32,7 @@ Successor to [NXT](#NXT). It has a number of "child-chains" and coins in an atte
 
 [site](https://www.bancor.network/)
 
-An Ethereum based project to improve interchange between ERC20-ish coins (smart tokens), via an intermediary token (BNT).Todo
+An Ethereum based project to improve interchange between ERC20-ish coins (smart tokens), via an intermediary token (BNT).
 
 ## Blockstack
 
@@ -116,6 +115,17 @@ A Javascript library that allows for mining of [Monero](#Monero) in web pages.
 
 Open source wallet software, now deprecated as the company focusses on enterprise offerings.
 
+## Colored Coins
+
+Todo
+
+## CryptoNote
+
+[site](https://cryptonote.org/)
+[wikipedia](https://en.wikipedia.org/wiki/CryptoNote)
+
+A protocol and set of tools that power a number of privacy focussed coins including Monero. It includes CryptoNight, an application specific integrated circuit (ASIC) resistant hash function.
+
 ## The DAO
 
 [wikipedia](https://en.wikipedia.org/wiki/The_DAO_(organization))
@@ -134,7 +144,7 @@ Blockchain & coin run on a two tier node system (master / mining) with additiona
 [site](http://dogecoin.com/)
 [wikipedia](https://en.wikipedia.org/wiki/Dogecoin)
 
-Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time). Much scandal.
+Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time, utilization of Scrypt rather than SHA-256). Much scandal.
 
 ## Corda
 
@@ -179,7 +189,7 @@ Hard fork of Ethereum blockchain pre-DAO attack.
 [site](https://filecoin.io/)
 [wikipedia](https://en.wikipedia.org/wiki/Filecoin)
 
-Blockchain based decentralised file storage using IPFS (which they created). The coin (FIL) is earnt by serving files.
+Blockchain based decentralised file storage using IPFS (which they created). The coin (FIL) is earned by serving files.
 
 ## GDAX
 
@@ -198,7 +208,7 @@ Exchange run by the Winklevoss twins (of Facebook fame) based in the US.
 
 [site](https://geth.ethereum.org/)
 
-An Ethereum client implemenation written in Go-lang.
+An Ethereum client implementation written in Go-lang.
 
 ## Golem
 
@@ -257,57 +267,92 @@ Earl you alt-coin to Bitcoin (from which it was forked), uses Scrypt instead of 
 
 ## Maidsafe (SAFE)
 
-Blockchain + coin enabling a decentralised file store and code execution allowing for a decentralised web.
+[site](https://maidsafe.net/)
+
+Blockchain + coin enabling a decentralised file store and code execution, allowing for a decentralised web.
+
+## MasterCoin
+
+Todo
 
 ## Mist Browser
 
-Todo
+A web browser based on Chromium which includes an Ethereum client (Geth) and allows users to interact with Ethereum based DApps.
 
 ## Moolah
 
-Dogecoin exchange
+Dogecoin exchange, now bankrupt.
 
-## Monero
+## Monero (XMR)
 
-Privacy focussed blockchain + coin.Todo
+[site](https://getmonero.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Monero_(cryptocurrency))
+
+Privacy focussed blockchain + coin based on CryptoNote (it was one of the first CryptoNote based cryptocurrencies), runs on proof-of-work. Formerly BitMonero. Because of it's privacy it has attracted a lot of illicit use.
 
 ## Mt Gox
 
-The original, now defunct, Bitcoin exchange, hacked multiple times.
+[wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
 
-## Namecoin
+The original, now defunct, Bitcoin exchange, hacked multiple times. Was based in Japan.
 
-Todo
+## Namecoin (NMC)
 
-## Nem
+[site](https://namecoin.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Namecoin)
 
-Todo
+Blockchain and coin (originally set up to use the Bitcoin blockchain) that is used to manage ownership of .bit domain names and could in principle be used to manage other naming/ownership systems.
+
+## Nem (XEM)
+
+[site](https://nem.io/)
+[wikipedia](https://en.wikipedia.org/wiki/NEM_(cryptocurrency))
+
+Blockchain and coin that runs on proof-of-importance and unusually is a mixture of open and closed source software. It powers the private Mijin network which aims to improve banking processes in Japan.
+
+## NEO (NEO & GAS)
+
+[site](https://neo.org/)
+[wikipedia](<https://en.wikipedia.org/wiki/NEO_(cryptocurrency)>)
+
+Formerly Antshares, NEO is a blockchain supporting smart contracts and is often compared to Ethereum. Strong ties to Chinese organisations and possibly government.
 
 ## NXT
 
-Todo
+[site](https://nxt.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Nxt)
 
-## SegWit (Segregated Witness)
+Proof-of-stake blockchain, designed to be a platform upon which applications & financial services could be built. Includes an integrated exchange, upon which user-created tokens can be traded.
 
-## SimpleToken (OST)
+## Omni Layer
 
-Todo
+[site](http://www.omnilayer.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Omni_Layer)
+
+Protocol built on-top of the Bitcoin blockchain to enable user-created coins and other more advanced functionality. Compares itself to the "HTTP" of Bitcoin's "TCP/IP". Formerly MasterCoin.
 
 ## Parity
 
-Todo
+[site](https://www.parity.io/)
 
-## PeerCoin
+A lightweight Ethereum client implementation written in Rust.
 
-Todo
+## PeerCoin (PPC)
+
+[site](https://peercoin.net/)
+[wikipedia](https://en.wikipedia.org/wiki/Peercoin)
+
+Fork of the Bitcoin code base, implements a hybrid proof-of-stake/proof-of-work blockchain, allows for 1% inflation.
 
 ## Plasma
 
-Todo
+[site](https://plasma.io/)
 
 ## Poloniex
 
-Todo
+[site](https://poloniex.com/)
+
+US based exchange.
 
 ## QTUM
 
@@ -320,6 +365,15 @@ Todo
 ## Ripple (XRP)
 
 Like Bitcoin, but managed with a central authority. Focussed on adoption by corporates.
+
+
+## SegWit (Segregated Witness)
+
+Todo
+
+## SimpleToken (OST)
+
+Todo
 
 ## Stellar
 
@@ -341,11 +395,7 @@ Todo
 
 Todo
 
-## Ubiq (UBQ)Tezos
-
-Todo
-
-## Tron
+## Ubiq (UBQ)
 
 Todo
 
@@ -356,6 +406,10 @@ Todo
 ## Waves Network
 
 Todo
+
+## Zerocoin
+
+[wikipedia](https://en.wikipedia.org/wiki/Zerocoin)
 
 ## Zcash
 
