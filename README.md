@@ -68,6 +68,10 @@ Forked from Bitcoin August 1st 2017, for complex reasons including political and
 
 A major exchange, once hacked, possibly with some curious links to Tether. Based in Taiwan.
 
+## Bitpay
+
+Todo
+
 ## Bithumb
 
 [site](https://www.bithumb.com/)
@@ -163,6 +167,10 @@ Popular, open source wallet software written in Python.
 [site](https://eos.io/)
 
 Fork of Bitshares/Graphene looking to be an Ethereum competitor, built in Web Assembly by Block.one.
+
+## ERC-20
+
+Todo
 
 ## EtherDelta
 
@@ -348,6 +356,8 @@ Fork of the Bitcoin code base, implements a hybrid proof-of-stake/proof-of-work 
 
 [site](https://plasma.io/)
 
+Todo
+
 ## Poloniex
 
 [site](https://poloniex.com/)
@@ -356,20 +366,27 @@ US based exchange.
 
 ## QTUM
 
-Todo
+[site](qtum.org)
+[wikipedia](https://en.wikipedia.org/wiki/Qtum)
+
+Hybrid Bitcoin _and_ Ethereum based blockchain (thus supporting EVM based smart contracts) which runs on proof-of-stake and is based in China and Singapore.
 
 ## Reddcoin
 
-Todo
+[site](https://www.reddcoin.com/)
+
+Focussed on tipping for social networks (first and foremost Reddit). Code forked from Litecoin, now runs on proof-of-stake.
 
 ## Ripple (XRP)
 
-Like Bitcoin, but managed with a central authority. Focussed on adoption by corporates.
+[site](https://ripple.com/)
+[wikipedia](https://en.wikipedia.org/wiki/Ripple_(company))
 
+Payments & settlement network uses a select handful of validators verify transactions via consensus rather than a blockchain. Multiple tokens can represent things such as fiat or a commodity. Aimed at bank to bank transactions.
 
 ## SegWit (Segregated Witness)
 
-Todo
+An improvement to the Bitcoin protocol (and has been implemented in other protocols such as Litecoin) which involves separating the signature (Witness) data from the transactions allowing for improved security and reduced blocksize.
 
 ## SimpleToken (OST)
 
@@ -417,6 +434,4 @@ Todo
 
 ### Notes
 
-In part inspired by
-
-[AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
+In part inspired by [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english), aspires to be [written like it might be said](http://www.paulgraham.com/talk.html).
