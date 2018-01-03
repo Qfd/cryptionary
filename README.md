@@ -386,11 +386,15 @@ Payments & settlement network uses a select handful of validators verify transac
 
 ## SegWit (Segregated Witness)
 
+[wikipedia](https://en.wikipedia.org/wiki/SegWit)
+
 An improvement to the Bitcoin protocol (and has been implemented in other protocols such as Litecoin) which involves separating the signature (Witness) data from the transactions allowing for improved security and reduced blocksize.
 
 ## SimpleToken (OST)
 
-Todo
+[site](https://simpletoken.org/)
+
+Tokens as a service: built on top of Ethereum to allows others to easily create their own tokens (called "Branded Tokens"), plus tools to manage them. Has it's own Token (OST) as an intermediary.
 
 ## Stellar
 
