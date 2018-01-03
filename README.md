@@ -26,7 +26,7 @@ Todo
 [site](https://www.ardorplatform.org/)
 [wikipedia](https://en.wikipedia.org/wiki/ARDOR)
 
-Successor to [NXT](#NXT). It has a number of "child-chains" and coins in an attempt to solve scalability issues.
+Successor to [NXT](#nxt). It has a number of "child-chains" and coins in an attempt to solve scalability issues.
 
 ## Bancor
 
@@ -111,7 +111,7 @@ Proof of stake, smart contract blockchain + ADA coin, built in Haskell by IOHK.
 
 [site](https://coinhive.com/)
 
-A Javascript library that allows for mining of [Monero](#Monero) in web pages. 
+A Javascript library that allows for mining of [Monero](#monero-xmr) in web pages. 
 
 ## Coinkite
 
@@ -128,7 +128,7 @@ Todo
 [site](https://cryptonote.org/)
 [wikipedia](https://en.wikipedia.org/wiki/CryptoNote)
 
-A protocol and set of tools that power a number of privacy focussed coins including Monero. It includes CryptoNight, an application specific integrated circuit (ASIC) resistant hash function.
+A protocol and set of tools that power a number of privacy focussed coins including [Monero](#monero-xmr). It includes CryptoNight, an application specific integrated circuit (ASIC) resistant hash function.
 
 ## The DAO
 
