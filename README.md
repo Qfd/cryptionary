@@ -1,10 +1,13 @@
-# Cryptionary
+# Crypto Register
 
-Simple definitions of cryprocurrency terms. Restricted to proper-nouns.
+Simple descriptions of cryprocurrency names / projects. Restricted to proper-nouns.
+
+[Edits & additions welcome via pull request](https://github.com/Qfd/cryptoregister)
 
 See also
 
 * [Wikipedia's list of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
+* [New Block Crypto's cryptocurrency glossary](https://newblockcrypto.com/cryptocurrency-glossary/)
 
 ## Airswap
 
@@ -77,7 +80,7 @@ A major exchange, based in South Korea.
 [site](https://bitshares.org/)
 [wikipedia](https://en.wikipedia.org/wiki/BitShares)
 
-A proof-of-stake blockchain & coin with integrated exchange, which also allows for user-issued coins to be created and managed with smart contracts. Based upon Graphene.
+A delegated proof-of-stake blockchain & coin with integrated exchange, which also allows for user-issued coins to be created and managed with smart contracts. Based upon Graphene.
 
 ## Bittrex
 
@@ -87,101 +90,170 @@ A major exchange, based in the US.
 
 ## Blackcoin (BLK)
 
-Early (first?), proof of stake coin.
+[site](https://blackcoin.co/)
+
+First proof of stake blockchain, forked from Bitcoin,
+
+## Casper
+
+The Ethereum proof-of-stake implementation
 
 ## Cardano (ADA)
 
-Proof of stake, smart contract blockchain + ADA coin. Built by HKIO. Bitine
+[site](https://www.cardanohub.org)
+
+Proof of stake, smart contract blockchain + ADA coin, built in Haskell by IOHK.
 
 ## Coinhive
 
-Todo
+[site](https://coinhive.com/)
+
+A Javascript library that allows for mining of [Monero](#Monero) in web pages. 
 
 ## Coinkite
 
+[site](https://coinkite.com/)
+
 Open source wallet software, now deprecated as the company focusses on enterprise offerings.
 
-## DAO
+## The DAO
+
+[wikipedia](https://en.wikipedia.org/wiki/The_DAO_(organization))
 
 "Decentralised, Autonomous Organisation" - a smart contract built on Ethereum designed to act like a Venture Capitalist (handing out money to projects) that was hacked, causing the Ethereum Classic fork (i.e. undoing the hack).
 
 ## Dash (XCO)
 
+[site](https://www.dash.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
+
 Blockchain & coin run on a two tier node system (master / mining) with additional functionality such as instant & private payments.
 
 ## Dogecoin
+
+[site](http://dogecoin.com/)
+[wikipedia](https://en.wikipedia.org/wiki/Dogecoin)
 
 Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time). Much scandal.
 
 ## Corda
 
-Blockchain-ish node built by R3 designed to be a private network between financial institutions.
+[site](https://www.corda.net/)
+
+Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
 
 ## Electrum
+
+[site](https://electrum.org/#home)
 
 Popular, open source wallet software written in Python.
 
 ## EOS
 
-Fork of Bitshares looking to be an Ethereum competitor, built in Web Assembly.
+[site](https://eos.io/)
+
+Fork of Bitshares/Graphene looking to be an Ethereum competitor, built in Web Assembly by Block.one.
 
 ## EtherDelta
 
+[site](https://etherdelta.com/)
+
+A decentralised exchange for Ethereum based tokens.
+
 ## Ethereum (ETH)
 
-Blockchain comes with Turing complete scripting abilities via the Ethereum Virtual Machine (EVM).
+[site](https://www.ethereum.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+
+Blockchain and coin with Turing complete scripting abilities via the Ethereum Virtual Machine (EVM).
 
 ## Ethereum Classic
 
-Fork of Ethereum blockchain pre-DAO attack.
+[site](https://ethereumclassic.github.io/)
+[wikipedia](https://en.wikipedia.org/wiki/Ethereum_Classic)
+
+Hard fork of Ethereum blockchain pre-DAO attack.
 
 ## FileCoin (FIL)
 
-Blockchain based decentralised file storage based on IPFS (which they created).
+[site](https://filecoin.io/)
+[wikipedia](https://en.wikipedia.org/wiki/Filecoin)
+
+Blockchain based decentralised file storage using IPFS (which they created). The coin (FIL) is earnt by serving files.
 
 ## GDAX
+
+[site](https://www.gdax.com/)
 
 Major exchange which powers Coinbase, based in the US
 
 ## Gemini
 
-Todo
+[site](https://gemini.com/)
+[wikipedia](https://en.wikipedia.org/wiki/Gemini_(digital_currency_exchange))
+
+Exchange run by the Winklevoss twins (of Facebook fame) based in the US.
 
 ## Geth
 
-Todo
+[site](https://geth.ethereum.org/)
+
+An Ethereum client implemenation written in Go-lang.
 
 ## Golem
+
+[site](https://golem.network/)
 
 An Ethereum ERC20 coin used to pay for computation on machines.
 
 ## Gridcoin (G)
 
+[site](https://www.gridcoin.us/)
+[wikipedia](https://en.wikipedia.org/wiki/Gridcoin)
+
 Proof of stake based blockchain + coin which distributes additional coins for proof of research / computation.
 
 ## Hyperledger
 
-Corporate sponsored set of blockchain-ish tools / Todo
+[site](https://www.hyperledger.org/)
+[wikipedia](https://en.wikipedia.org/wiki/Hyperledger)
+
+Corporate sponsored set of blockchain / cryptocurrency related tools with a goal of advancing cross-industry collaboration.
 
 ## IOTA
+
+[site](https://iota.org/)
+[wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology))
 
 Coin + Tangle (comparable to a blockchain) designed for the internet of things. Uses proof of work. To send a transaction, a node needs to verify two existing ones.
 
 ## Kraken
 
-Major exchange based in the US.
+[site](https://www.kraken.com/)
+[wikipedia](https://en.wikipedia.org/wiki/Kraken_(bitcoin_exchange))
+
+Major exchange based in the US, selected as the "trustee" for MtGox which allows claimants to claim lost funds from them.
 
 ## Lightning Network
 
-Todo
+[site](https://lightning.network/)
+[wikipedia](https://en.wikipedia.org/wiki/Lightning_Network)
+
+Layer 2 solution for Bitcoin payments using off-chain channels between users designed to solve scalability issues.
 
 ## Lisk (LSK)
 
-Blockchain + coin focussed on developer tools and application development.
+[site](https://lisk.io/)
+[wikipedia](https://en.wikipedia.org/wiki/Lisk)
+
+Blockchain + coin focussed on developer tools and application development, where each application (built using node.js) runs it's own side chain. Runs on delegated proof-of-stake.
 
 ## Litecoin (LTC)
 
-Earl you alt-coin to Bitcoin, uses Scrypt instead of SHA3.
+[site](https://litecoin.com/)
+[wikipedia](https://en.wikipedia.org/wiki/Litecoin)
+
+Earl you alt-coin to Bitcoin (from which it was forked), uses Scrypt instead of SHA3 and has a 2.5 min (rather than Bitcoin's 10 min) block time.
 
 ## Maidsafe (SAFE)
 
@@ -214,6 +286,8 @@ Todo
 ## NXT
 
 Todo
+
+## SegWit (Segregated Witness)
 
 ## SimpleToken (OST)
 
