@@ -57,6 +57,14 @@ Original, flagship, crypto currency.
 
 Forked from Bitcoin August 1st 2017, for complex reasons including political and opinions on scaling (Block size/lightning Network).
 
+## Bitcoin Gold (BTG)
+
+[Website](https://bitcoingold.org/)
+[Wikipedia Entry](https://bitcoingold.org/)
+[Source Code](https://github.com/BTCGPU/BTCGPU)
+
+Fork of Bitcoin and split of the Bitcoin blockchain in an attempt to further decentralize the blockchain by reducing the effectiveness of specialized hardware (ASICs).
+
 ## Bitfinex
 
 [Website](https://www.bitfinex.com/)
