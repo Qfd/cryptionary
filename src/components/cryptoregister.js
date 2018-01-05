@@ -41,19 +41,25 @@ injectGlobal`
 `;
 
 const Definitions = styled(Markdown)`
-  padding: 0.6rem;
+  padding: 0.6rem 0.6rem 3rem;
 
   @media (min-width: 800px) {
-    float: right;
-    max-height: 100vh;
+    padding-right: 10%;
+    position: fixed;
+    height: 100vh;
     overflow: scroll;
     padding-left: 5%;
     width: 60%;
+    left: 40%;
     -webkit-overflow-scrolling: touch;
   }
 
   > h2 {
     margin: 2em 0 0.25em;
+
+    &:first-of-type {
+      margin-top: 1em;
+    }
   }
 
   h2 + p > a {
@@ -84,8 +90,6 @@ const Definitions = styled(Markdown)`
 `;
 
 const Body = styled.body`
-  margin: 0 auto;
-  max-width: 1080px;
   padding-top: 2.5rem;
 
   @media (min-width: 500px) {
@@ -95,6 +99,7 @@ const Body = styled.body`
   @media (min-width: 800px) {
     padding-top: 0;
     padding-right: 0;
+    width: 40%;
   }
 `;
 
@@ -102,10 +107,13 @@ const Header = styled.header`
   padding: 0 0.5rem;
   top: 0;
   width: 100%;
+  margin-bottom: 1em;
 
   @media (min-width: 800px) {
-    float: left;
-    width: 40%;
+    float: right;
+    max-width: 600px;
+    margin-bottom: 0;
+    padding: 0 0 0 1rem;
   }
 
   > h2 {
@@ -147,7 +155,6 @@ const Title = styled.h1`
 `;
 
 const Footer = styled(Markdown)`
-  clear: left;
   margin: 2rem 0.5rem;
   padding: 1.5rem 0.25rem;
   border-top: 1px solid #999;
@@ -172,10 +179,11 @@ const Footer = styled(Markdown)`
 
   @media (min-width: 800px) {
     border-top: none;
-    float: left;
+    clear: both;
     margin: 0;
-    padding: 0.5rem 0.5rem;
-    width: 40%;
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    float: right;
+    max-width: 600px;
   }
 `;
 

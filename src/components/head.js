@@ -2,8 +2,8 @@ import React from 'react';
 
 export default () => (
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta charSet="utf-8" />
+    <meta httpEquiv="x-ua-compatible" content="ie=edge" />
     <title>Cryptoregister</title>
     <meta
       name="description"
