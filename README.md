@@ -1,39 +1,27 @@
 # Crypto Register
 
-Simple descriptions of cryprocurrency names / projects. Restricted to proper-nouns.
+Simple descriptions of cryprocurrency names / projects.
 
-[Edits & additions welcome via pull request](https://github.com/Qfd/cryptoregister)
+Pull requests & issues welcome.
 
-See also
-
-* [Wikipedia's list of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
-* [New Block Crypto's cryptocurrency glossary](https://newblockcrypto.com/cryptocurrency-glossary/)
+---
 
 ## Airswap
 
 [Website](https://www.airswap.io/)
-[Source Code](https://github.com/airswap/contracts)
 
 A decentralised Ethereum exchange that aims to solve some of the issues with other decentralised exchanges with their _swap_ protocol.
-
-## AlphaBay
-
-[wikipedia](https://en.wikipedia.org/wiki/AlphaBay)
-
-Todo
 
 ## Ardor
 
 [Website](https://www.ardorplatform.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/ARDOR)
-[Source Code](https://bitbucket.org/Jelurida/ardor/src)
 
 Successor to [NXT](#nxt). It has a number of "child-chains" and coins in an attempt to solve scalability issues.
 
 ## Bancor
 
 [Website](https://www.bancor.network/)
-[Source Code](https://github.com/bancorprotocol/contracts)
 
 An Ethereum based project to improve interchange between ERC20-ish coins (smart tokens), via an intermediary token (BNT).
 
@@ -41,13 +29,12 @@ An Ethereum based project to improve interchange between ERC20-ish coins (smart 
 
 [Website](https://blockstack.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Blockstack)
-[Source Code](https://github.com/blockstack/blockstack)
 
 A network for developing decentralised apps, blockchain agnostic, considered “tier 2” infrastructure.
 
 ## Binance
 
-[site](https://www.binance.com)
+[Website](https://www.binance.com)
 
 A major coin exchange based in South Korea.
 
@@ -55,21 +42,20 @@ A major coin exchange based in South Korea.
 
 [Website](https://bitcoin.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Bitcoin)
-[Source Code](https://github.com/bitcoin/bitcoin)
 
 Original, flagship, crypto currency.
 
 ## Bitcoin Cash (BCH)
 
-[site](https://www.bitcoincash.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Bitcoin_Cash)
+[Website](https://www.bitcoincash.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Bitcoin_Cash)
 
 Forked from Bitcoin August 1st 2017, for complex reasons including political and opinions on scaling (Block size/lightning Network).
 
 ## Bitfinex
 
-[site](https://www.bitfinex.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Bitfinex)
+[Website](https://www.bitfinex.com/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Bitfinex)
 
 A major exchange, once hacked, possibly with some curious links to Tether. Based in Taiwan.
 
@@ -79,7 +65,7 @@ Todo
 
 ## Bithumb
 
-[site](https://www.bithumb.com/)
+[Website](https://www.bithumb.com/)
 
 A major exchange, based in South Korea.
 
@@ -87,20 +73,18 @@ A major exchange, based in South Korea.
 
 [Website](https://bitshares.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/BitShares)
-[Source Code](https://github.com/bitshares/bitshares-core)
 
 A delegated proof-of-stake blockchain & coin with integrated exchange, which also allows for user-issued coins to be created and managed with smart contracts. Based upon Graphene.
 
 ## Bittrex
 
-[site](https://bittrex.com/)
+[Website](https://bittrex.com/)
 
 A major exchange, based in the US.
 
 ## Blackcoin (BLK)
 
 [Website](https://blackcoin.co/)
-[Source Code](https://github.com/CoinBlack/blackcoin)
 
 First proof of stake blockchain, forked from Bitcoin.
 
@@ -113,20 +97,18 @@ The Ethereum proof-of-stake implementation
 ## Cardano (ADA)
 
 [Website](https://www.cardanohub.org)
-[Source Code](https://github.com/input-output-hk/cardano-sl)
 
 Proof of stake, smart contract blockchain + ADA coin, built in Haskell by IOHK.
 
 ## Coinhive
 
 [Website](https://coinhive.com/)
-[Source Code](https://github.com/cazala/coin-hive)
 
 A Javascript library that allows for mining of [Monero](#monero-xmr) in web pages.
 
 ## Coinkite
 
-[site](https://coinkite.com/)
+[Website](https://coinkite.com/)
 
 Open source wallet software, now deprecated as the company focusses on enterprise offerings.
 
@@ -138,13 +120,12 @@ Todo
 
 [Website](https://cryptonote.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/CryptoNote)
-[Source Code](https://github.com/cryptonotefoundation/cryptonote)
 
 A protocol and set of tools that power a number of privacy focussed coins including [Monero](#monero-xmr). It includes CryptoNight, an application specific integrated circuit (ASIC) resistant hash function.
 
 ## The DAO
 
-[wikipedia](<https://en.wikipedia.org/wiki/The_DAO_(organization)>)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/The_DAO_(organization)>)
 
 "Decentralised, Autonomous Organisation" - a smart contract built on Ethereum designed to act like a Venture Capitalist (handing out money to projects) that was hacked, causing the Ethereum Classic fork (i.e. undoing the hack).
 
@@ -152,7 +133,6 @@ A protocol and set of tools that power a number of privacy focussed coins includ
 
 [Website](https://www.dash.org/)
 [Wikipedia Entry](<https://en.wikipedia.org/wiki/Dash_(cryptocurrency)>)
-[Source Code](https://github.com/dashpay/dash)
 
 Blockchain & coin run on a two tier node system (master / mining) with additional functionality such as instant & private payments. Originally forked from Bitcoin.
 
@@ -160,28 +140,24 @@ Blockchain & coin run on a two tier node system (master / mining) with additiona
 
 [Website](http://dogecoin.com/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Dogecoin)
-[Source Code](https://github.com/dogecoin/dogecoin)
 
 Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time, utilization of Scrypt rather than SHA-256). Much scandal.
 
 ## Corda
 
 [Website](https://www.corda.net/)
-[Source Code](https://github.com/corda/corda)
 
 Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
 
 ## Electrum
 
 [Website](https://electrum.org/#home)
-[Source Code](https://github.com/spesmilo/electrum)
 
 Popular, open source wallet software written in Python.
 
 ## EOS
 
 [Website](https://eos.io/)
-[Source Code](https://github.com/EOSIO/eos)
 
 Fork of Bitshares/Graphene looking to be an Ethereum competitor, built in Web Assembly by Block.one.
 
@@ -192,7 +168,6 @@ Todo
 ## EtherDelta
 
 [Website](https://etherdelta.com/)
-[Source Code](https://github.com/etherdelta/smart_contract)
 
 A decentralised exchange for Ethereum based tokens.
 
@@ -200,48 +175,45 @@ A decentralised exchange for Ethereum based tokens.
 
 [Website](https://www.ethereum.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Ethereum)
-[Source Code](https://github.com/ethereum)
 
 Blockchain and coin with Turing complete scripting abilities via the Ethereum Virtual Machine (EVM).
 
 ## Ethereum Classic
 
-[site](https://ethereumclassic.github.io/)
-[wikipedia](https://en.wikipedia.org/wiki/Ethereum_Classic)
+[Website](https://ethereumclassic.github.io/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Ethereum_Classic)
 
 Hard fork of Ethereum blockchain pre-DAO attack.
 
 ## FileCoin (FIL)
 
-[site](https://filecoin.io/)
-[wikipedia](https://en.wikipedia.org/wiki/Filecoin)
+[Website](https://filecoin.io/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Filecoin)
 
 Blockchain based decentralised file storage using IPFS (which they created). The coin (FIL) is earned by serving files.
 
 ## GDAX
 
-[site](https://www.gdax.com/)
+[Website](https://www.gdax.com/)
 
 Major exchange which powers Coinbase, based in the US
 
 ## Gemini
 
-[site](https://gemini.com/)
-[wikipedia](<https://en.wikipedia.org/wiki/Gemini_(digital_currency_exchange)>)
+[Website](https://gemini.com/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Gemini_(digital_currency_exchange)>)
 
 Exchange run by the Winklevoss twins (of Facebook fame) based in the US.
 
 ## Geth
 
 [Website](https://geth.ethereum.org/)
-[Source Code](https://github.com/ethereum/go-ethereum)
 
 An Ethereum client implementation written in Go-lang.
 
 ## Golem
 
 [Website](https://golem.network/)
-[Source Code](https://github.com/golemfactory/golem)
 
 An Ethereum ERC20 coin used to pay for computation on machines.
 
@@ -249,7 +221,6 @@ An Ethereum ERC20 coin used to pay for computation on machines.
 
 [Website](https://www.gridcoin.us/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Gridcoin)
-[Source Code](https://github.com/gridcoin/Gridcoin-Research)
 
 Proof of stake based blockchain + coin which distributes additional coins for proof of research / computation.
 
@@ -257,7 +228,6 @@ Proof of stake based blockchain + coin which distributes additional coins for pr
 
 [Website](https://www.hyperledger.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Hyperledger)
-[Source Code](https://github.com/Hyperledger)
 
 Corporate sponsored set of blockchain / cryptocurrency related tools with a goal of advancing cross-industry collaboration.
 
@@ -265,14 +235,13 @@ Corporate sponsored set of blockchain / cryptocurrency related tools with a goal
 
 [Website](https://iota.org/)
 [Wikipedia Entry](<https://en.wikipedia.org/wiki/IOTA_(technology)>)
-[Source Code](https://github.com/iotaledger/iri)
 
 Coin + Tangle (comparable to a blockchain) designed for the internet of things. Uses proof of work. To send a transaction, a node needs to verify two existing ones.
 
 ## Kraken
 
-[site](https://www.kraken.com/)
-[wikipedia](<https://en.wikipedia.org/wiki/Kraken_(bitcoin_exchange)>)
+[Website](https://www.kraken.com/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Kraken_(bitcoin_exchange)>)
 
 Major exchange based in the US, selected as the "trustee" for MtGox which allows claimants to claim lost funds from them.
 
@@ -280,7 +249,6 @@ Major exchange based in the US, selected as the "trustee" for MtGox which allows
 
 [Website](https://lightning.network/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Lightning_Network)
-[Source Code](https://github.com/lightningnetwork/lnd)
 
 Layer 2 solution for Bitcoin payments using off-chain channels between users designed to solve scalability issues.
 
@@ -303,9 +271,9 @@ Earl you alt-coin to Bitcoin (from which it was forked), uses Scrypt instead of 
 ## Maidsafe (SAFE)
 
 [Website](https://maidsafe.net/)
+<<<<<<< HEAD
 [Source Code](https://github.com/maidsafe/safe_vault)
-
-Blockchain + coin enabling a decentralised file store and code execution, allowing for a decentralised web.
+=======
 
 ## MasterCoin
 
@@ -331,7 +299,7 @@ Privacy focussed blockchain + coin based on CryptoNote (it was one of the first 
 
 ## Mt Gox
 
-[wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Mt._Gox)
 
 The original, now defunct, Bitcoin exchange, hacked multiple times. Was based in Japan.
 
@@ -392,13 +360,13 @@ Fork of the Bitcoin code base, implements a hybrid proof-of-stake/proof-of-work 
 
 ## Plasma
 
-[site](https://plasma.io/)
+[Website](https://plasma.io/)
 
 Todo
 
 ## Poloniex
 
-[site](https://poloniex.com/)
+[Website](https://poloniex.com/)
 
 US based exchange.
 
@@ -427,13 +395,13 @@ Payments & settlement network uses a select handful of validators verify transac
 
 ## SegWit (Segregated Witness)
 
-[wikipedia](https://en.wikipedia.org/wiki/SegWit)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/SegWit)
 
 An improvement to the Bitcoin protocol (and has been implemented in other protocols such as Litecoin) which involves separating the signature (Witness) data from the transactions allowing for improved security and reduced blocksize.
 
 ## SimpleToken (OST)
 
-[site](https://simpletoken.org/)
+[Website](https://simpletoken.org/)
 
 Tokens as a service: built on top of Ethereum to allows others to easily create their own tokens (called "Branded Tokens"), plus tools to manage them. Has it's own Token (OST) as an intermediary.
 
@@ -478,7 +446,11 @@ Todo
 
 Todo
 
-### Notes
+---
+
+### About
+
+Cryptoregister was created out of a desire to understand how the various cryptocurrency projects that exist fit together and a frustration with the hype or [fear/uncertainy/doubt](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) that’s so often spread about any given project which makes it hard to interpret what these things actually _are_.
 
 Inspired in part by [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english), and it aspires to be [written like it might be said](http://www.paulgraham.com/talk.html).
 

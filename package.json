@@ -1,0 +1,53 @@
+{
+  "name": "cryptoregister",
+  "version": "1.0.0",
+  "description": "Simple descriptions of cryprocurrency names / projects. Restricted to proper-nouns.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "babel-node ./scripts/compile.js",
+    "compile-watch": "chokidar '**/*.js' -c 'npm run compile'",
+    "serve": "http-server ./docs",
+    "start": "concurrently 'npm run serve' 'npm run compile-watch'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qfd/cryptoregister.git"
+  },
+  "author": "josh-a-e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qfd/cryptoregister/issues"
+  },
+  "homepage": "https://cryptoregister.io",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "chokidar-cli": "^1.2.0",
+    "concurrently": "^3.5.1",
+    "http-server": "^0.10.0",
+    "marked": "^0.3.9",
+    "npx": "^9.7.1",
+    "parcel-bundler": "^1.4.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-markdown": "^3.1.4",
+    "styled-components": "^2.4.0"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      [
+        "env",
+        {
+          "targets": {
+            "node": "current"
+          }
+        }
+      ]
+    ]
+  }
+}
