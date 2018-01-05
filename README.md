@@ -1,6 +1,6 @@
 # Crypto Register
 
-Simple descriptions of cryprocurrency names / projects. Restricted to proper-nouns.
+Simple descriptions of cryptocurrency names / projects. Restricted to proper-nouns.
 
 [Edits & additions welcome via pull request](https://github.com/Qfd/cryptoregister)
 
@@ -11,7 +11,7 @@ Simple descriptions of cryprocurrency names / projects. Restricted to proper-nou
 [Website](https://www.airswap.io/)
 [Source Code](https://github.com/airswap/contracts)
 
-A decentralised Ethereum exchange that aims to solve some of the issues with other decentralised exchanges with their _swap_ protocol.
+A decentralized Ethereum exchange that aims to solve some of the issues with other decentralized exchanges with their _swap_ protocol.
 
 ## Ardor
 
@@ -34,7 +34,7 @@ An Ethereum based project to improve interchange between ERC20-ish coins (smart 
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Blockstack)
 [Source Code](https://github.com/blockstack/blockstack)
 
-A network for developing decentralised apps, blockchain agnostic, considered “tier 2” infrastructure.
+A network for developing decentralized apps, blockchain agnostic, considered “tier 2” infrastructure.
 
 ## Binance
 
@@ -137,7 +137,7 @@ A protocol and set of tools that power a number of privacy focussed coins includ
 
 [Wikipedia Entry](<https://en.wikipedia.org/wiki/The_DAO_(organization)>)
 
-"Decentralised, Autonomous Organisation" - a smart contract built on Ethereum designed to act like a Venture Capitalist (handing out money to projects) that was hacked, causing the Ethereum Classic fork (i.e. undoing the hack).
+"decentralized, Autonomous Organisation" - a smart contract built on Ethereum designed to act like a Venture Capitalist (handing out money to projects) that was hacked, causing the Ethereum Classic fork (i.e. undoing the hack).
 
 ## Dash (XCO)
 
@@ -185,7 +185,7 @@ Todo
 [Website](https://etherdelta.com/)
 [Source Code](https://github.com/etherdelta/smart_contract)
 
-A decentralised exchange for Ethereum based tokens.
+A decentralized exchange for Ethereum based tokens.
 
 ## Ethereum (ETH)
 
@@ -207,7 +207,7 @@ Hard fork of Ethereum blockchain pre-DAO attack.
 [Website](https://filecoin.io/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Filecoin)
 
-Blockchain based decentralised file storage using IPFS (which they created). The coin (FIL) is earned by serving files.
+Blockchain based decentralized file storage using IPFS (which they created). The coin (FIL) is earned by serving files.
 
 ## GDAX
 
@@ -296,7 +296,7 @@ Earl you alt-coin to Bitcoin (from which it was forked), uses Scrypt instead of 
 [Website](https://maidsafe.net/)
 [Source Code](https://github.com/maidsafe/safe_vault)
 
-Blockchain + coin enabling a decentralised file store and code execution, allowing for a decentralised web.
+Blockchain + coin enabling a decentralized file store and code execution, allowing for a decentralized web.
 
 ## MasterCoin
 

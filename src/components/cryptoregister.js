@@ -196,7 +196,7 @@ export default ({ definitionsMarkdown, furtherInformationMarkdown }) => (
           Cryptoregister<span>.</span>io
         </Title>
         <h2 className="base-font">
-          Simple descriptions of cryprocurrency terms and projects.
+          Simple descriptions of cryptocurrency terms and projects.
         </h2>
         <HelpBanner />
       </Header>
