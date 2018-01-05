@@ -11,7 +11,8 @@ See also
 
 ## Airswap
 
-[site](https://www.airswap.io/)
+[Website](https://www.airswap.io/)
+[Source Code](https://github.com/airswap/contracts)
 
 A decentralised Ethereum exchange that aims to solve some of the issues with other decentralised exchanges with their _swap_ protocol.
 
@@ -23,21 +24,24 @@ Todo
 
 ## Ardor
 
-[site](https://www.ardorplatform.org/)
-[wikipedia](https://en.wikipedia.org/wiki/ARDOR)
+[Website](https://www.ardorplatform.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/ARDOR)
+[Source Code](https://bitbucket.org/Jelurida/ardor/src)
 
 Successor to [NXT](#nxt). It has a number of "child-chains" and coins in an attempt to solve scalability issues.
 
 ## Bancor
 
-[site](https://www.bancor.network/)
+[Website](https://www.bancor.network/)
+[Source Code](https://github.com/bancorprotocol/contracts)
 
 An Ethereum based project to improve interchange between ERC20-ish coins (smart tokens), via an intermediary token (BNT).
 
 ## Blockstack
 
-[site](https://blockstack.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Blockstack)
+[Website](https://blockstack.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Blockstack)
+[Source Code](https://github.com/blockstack/blockstack)
 
 A network for developing decentralised apps, blockchain agnostic, considered “tier 2” infrastructure.
 
@@ -49,8 +53,9 @@ A major coin exchange based in South Korea.
 
 ## Bitcoin (Core) (BTC)
 
-[site](https://bitcoin.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Bitcoin)
+[Website](https://bitcoin.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Bitcoin)
+[Source Code](https://github.com/bitcoin/bitcoin)
 
 Original, flagship, crypto currency.
 
@@ -80,8 +85,9 @@ A major exchange, based in South Korea.
 
 ## Bitshares
 
-[site](https://bitshares.org/)
-[wikipedia](https://en.wikipedia.org/wiki/BitShares)
+[Website](https://bitshares.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/BitShares)
+[Source Code](https://github.com/bitshares/bitshares-core)
 
 A delegated proof-of-stake blockchain & coin with integrated exchange, which also allows for user-issued coins to be created and managed with smart contracts. Based upon Graphene.
 
@@ -93,25 +99,30 @@ A major exchange, based in the US.
 
 ## Blackcoin (BLK)
 
-[site](https://blackcoin.co/)
+[Website](https://blackcoin.co/)
+[Source Code](https://github.com/CoinBlack/blackcoin)
 
-First proof of stake blockchain, forked from Bitcoin,
+First proof of stake blockchain, forked from Bitcoin.
 
 ## Casper
+
+[Source Code](https://github.com/ethereum/casper)
 
 The Ethereum proof-of-stake implementation
 
 ## Cardano (ADA)
 
-[site](https://www.cardanohub.org)
+[Website](https://www.cardanohub.org)
+[Source Code](https://github.com/input-output-hk/cardano-sl)
 
 Proof of stake, smart contract blockchain + ADA coin, built in Haskell by IOHK.
 
 ## Coinhive
 
-[site](https://coinhive.com/)
+[Website](https://coinhive.com/)
+[Source Code](https://github.com/cazala/coin-hive)
 
-A Javascript library that allows for mining of [Monero](#monero-xmr) in web pages. 
+A Javascript library that allows for mining of [Monero](#monero-xmr) in web pages.
 
 ## Coinkite
 
@@ -125,46 +136,52 @@ Todo
 
 ## CryptoNote
 
-[site](https://cryptonote.org/)
-[wikipedia](https://en.wikipedia.org/wiki/CryptoNote)
+[Website](https://cryptonote.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/CryptoNote)
+[Source Code](https://github.com/cryptonotefoundation/cryptonote)
 
 A protocol and set of tools that power a number of privacy focussed coins including [Monero](#monero-xmr). It includes CryptoNight, an application specific integrated circuit (ASIC) resistant hash function.
 
 ## The DAO
 
-[wikipedia](https://en.wikipedia.org/wiki/The_DAO_(organization))
+[wikipedia](<https://en.wikipedia.org/wiki/The_DAO_(organization)>)
 
 "Decentralised, Autonomous Organisation" - a smart contract built on Ethereum designed to act like a Venture Capitalist (handing out money to projects) that was hacked, causing the Ethereum Classic fork (i.e. undoing the hack).
 
 ## Dash (XCO)
 
-[site](https://www.dash.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Dash_(cryptocurrency))
+[Website](https://www.dash.org/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Dash_(cryptocurrency)>)
+[Source Code](https://github.com/dashpay/dash)
 
-Blockchain & coin run on a two tier node system (master / mining) with additional functionality such as instant & private payments.
+Blockchain & coin run on a two tier node system (master / mining) with additional functionality such as instant & private payments. Originally forked from Bitcoin.
 
 ## Dogecoin
 
-[site](http://dogecoin.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Dogecoin)
+[Website](http://dogecoin.com/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Dogecoin)
+[Source Code](https://github.com/dogecoin/dogecoin)
 
 Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time, utilization of Scrypt rather than SHA-256). Much scandal.
 
 ## Corda
 
-[site](https://www.corda.net/)
+[Website](https://www.corda.net/)
+[Source Code](https://github.com/corda/corda)
 
 Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
 
 ## Electrum
 
-[site](https://electrum.org/#home)
+[Website](https://electrum.org/#home)
+[Source Code](https://github.com/spesmilo/electrum)
 
 Popular, open source wallet software written in Python.
 
 ## EOS
 
-[site](https://eos.io/)
+[Website](https://eos.io/)
+[Source Code](https://github.com/EOSIO/eos)
 
 Fork of Bitshares/Graphene looking to be an Ethereum competitor, built in Web Assembly by Block.one.
 
@@ -174,14 +191,16 @@ Todo
 
 ## EtherDelta
 
-[site](https://etherdelta.com/)
+[Website](https://etherdelta.com/)
+[Source Code](https://github.com/etherdelta/smart_contract)
 
 A decentralised exchange for Ethereum based tokens.
 
 ## Ethereum (ETH)
 
-[site](https://www.ethereum.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+[Website](https://www.ethereum.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Ethereum)
+[Source Code](https://github.com/ethereum)
 
 Blockchain and coin with Turing complete scripting abilities via the Ethereum Virtual Machine (EVM).
 
@@ -208,74 +227,83 @@ Major exchange which powers Coinbase, based in the US
 ## Gemini
 
 [site](https://gemini.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Gemini_(digital_currency_exchange))
+[wikipedia](<https://en.wikipedia.org/wiki/Gemini_(digital_currency_exchange)>)
 
 Exchange run by the Winklevoss twins (of Facebook fame) based in the US.
 
 ## Geth
 
-[site](https://geth.ethereum.org/)
+[Website](https://geth.ethereum.org/)
+[Source Code](https://github.com/ethereum/go-ethereum)
 
 An Ethereum client implementation written in Go-lang.
 
 ## Golem
 
-[site](https://golem.network/)
+[Website](https://golem.network/)
+[Source Code](https://github.com/golemfactory/golem)
 
 An Ethereum ERC20 coin used to pay for computation on machines.
 
 ## Gridcoin (G)
 
-[site](https://www.gridcoin.us/)
-[wikipedia](https://en.wikipedia.org/wiki/Gridcoin)
+[Website](https://www.gridcoin.us/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Gridcoin)
+[Source Code](https://github.com/gridcoin/Gridcoin-Research)
 
 Proof of stake based blockchain + coin which distributes additional coins for proof of research / computation.
 
 ## Hyperledger
 
-[site](https://www.hyperledger.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Hyperledger)
+[Website](https://www.hyperledger.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Hyperledger)
+[Source Code](https://github.com/Hyperledger)
 
 Corporate sponsored set of blockchain / cryptocurrency related tools with a goal of advancing cross-industry collaboration.
 
 ## IOTA
 
-[site](https://iota.org/)
-[wikipedia](https://en.wikipedia.org/wiki/IOTA_(technology))
+[Website](https://iota.org/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/IOTA_(technology)>)
+[Source Code](https://github.com/iotaledger/iri)
 
 Coin + Tangle (comparable to a blockchain) designed for the internet of things. Uses proof of work. To send a transaction, a node needs to verify two existing ones.
 
 ## Kraken
 
 [site](https://www.kraken.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Kraken_(bitcoin_exchange))
+[wikipedia](<https://en.wikipedia.org/wiki/Kraken_(bitcoin_exchange)>)
 
 Major exchange based in the US, selected as the "trustee" for MtGox which allows claimants to claim lost funds from them.
 
 ## Lightning Network
 
-[site](https://lightning.network/)
-[wikipedia](https://en.wikipedia.org/wiki/Lightning_Network)
+[Website](https://lightning.network/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Lightning_Network)
+[Source Code](https://github.com/lightningnetwork/lnd)
 
 Layer 2 solution for Bitcoin payments using off-chain channels between users designed to solve scalability issues.
 
 ## Lisk (LSK)
 
-[site](https://lisk.io/)
-[wikipedia](https://en.wikipedia.org/wiki/Lisk)
+[Website](https://lisk.io/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Lisk)
+[Source Code](https://github.com/LiskHQ/lisk)
 
 Blockchain + coin focussed on developer tools and application development, where each application (built using node.js) runs it's own side chain. Runs on delegated proof-of-stake.
 
 ## Litecoin (LTC)
 
-[site](https://litecoin.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Litecoin)
+[Website](https://litecoin.com/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Litecoin)
+[Source Code](https://github.com/litecoin-project/litecoin)
 
 Earl you alt-coin to Bitcoin (from which it was forked), uses Scrypt instead of SHA3 and has a 2.5 min (rather than Bitcoin's 10 min) block time.
 
 ## Maidsafe (SAFE)
 
-[site](https://maidsafe.net/)
+[Website](https://maidsafe.net/)
+[Source Code](https://github.com/maidsafe/safe_vault)
 
 Blockchain + coin enabling a decentralised file store and code execution, allowing for a decentralised web.
 
@@ -285,6 +313,8 @@ Todo
 
 ## Mist Browser
 
+[Source Code](https://github.com/ethereum/mist)
+
 A web browser based on Chromium which includes an Ethereum client (Geth) and allows users to interact with Ethereum based DApps.
 
 ## Moolah
@@ -293,8 +323,9 @@ Dogecoin exchange, now bankrupt.
 
 ## Monero (XMR)
 
-[site](https://getmonero.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Monero_(cryptocurrency))
+[Website](https://getmonero.org/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Monero_(cryptocurrency)>)
+[Source Code](https://github.com/monero-project/monero)
 
 Privacy focussed blockchain + coin based on CryptoNote (it was one of the first CryptoNote based cryptocurrencies), runs on proof-of-work. Formerly BitMonero. Because of it's privacy it has attracted a lot of illicit use.
 
@@ -306,49 +337,56 @@ The original, now defunct, Bitcoin exchange, hacked multiple times. Was based in
 
 ## Namecoin (NMC)
 
-[site](https://namecoin.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Namecoin)
+[Website](https://namecoin.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Namecoin)
+[Source Code](https://github.com/namecoin/namecoin-core)
 
 Blockchain and coin (originally set up to use the Bitcoin blockchain) that is used to manage ownership of .bit domain names and could in principle be used to manage other naming/ownership systems.
 
 ## Nem (XEM)
 
-[site](https://nem.io/)
-[wikipedia](https://en.wikipedia.org/wiki/NEM_(cryptocurrency))
+[Website](https://nem.io/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/NEM_(cryptocurrency)>)
+[Source Code](https://github.com/NemProject/nem.core)
 
 Blockchain and coin that runs on proof-of-importance and unusually is a mixture of open and closed source software. It powers the private Mijin network which aims to improve banking processes in Japan.
 
 ## NEO (NEO & GAS)
 
-[site](https://neo.org/)
-[wikipedia](<https://en.wikipedia.org/wiki/NEO_(cryptocurrency)>)
+[Website](https://neo.org/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/NEO_(cryptocurrency)>)
+[Source Code](https://github.com/neo-project/neo)
 
 Formerly Antshares, NEO is a blockchain supporting smart contracts and is often compared to Ethereum. Strong ties to Chinese organisations and possibly government.
 
 ## NXT
 
-[site](https://nxt.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Nxt)
+[Website](https://nxt.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Nxt)
+[Source Code](https://bitbucket.org/JeanLucPicard/nxt/src)
 
 Proof-of-stake blockchain, designed to be a platform upon which applications & financial services could be built. Includes an integrated exchange, upon which user-created tokens can be traded.
 
 ## Omni Layer
 
-[site](http://www.omnilayer.org/)
-[wikipedia](https://en.wikipedia.org/wiki/Omni_Layer)
+[Website](http://www.omnilayer.org/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Omni_Layer)
+[Source Code](https://github.com/OmniLayer/omnicore)
 
-Protocol built on-top of the Bitcoin blockchain to enable user-created coins and other more advanced functionality. Compares itself to the "HTTP" of Bitcoin's "TCP/IP". Formerly MasterCoin.
+Protocol built on-top of the Bitcoin blockchain to enable user-created coins and other more advanced functionality. Compares itself to the "HTTP" of Bitcoin's "TCP/IP". Formerly MasterCoin, source code forked from Bitcoin.
 
 ## Parity
 
-[site](https://www.parity.io/)
+[Website](https://www.parity.io/)
+[Source Code](https://github.com/paritytech/parity)
 
-A lightweight Ethereum client implementation written in Rust.
+A lightweight Ethereum client implementation written in Rust, available via your browser once installed.
 
 ## PeerCoin (PPC)
 
-[site](https://peercoin.net/)
-[wikipedia](https://en.wikipedia.org/wiki/Peercoin)
+[Website](https://peercoin.net/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Peercoin)
+[Source Code](https://github.com/peercoin/peercoin)
 
 Fork of the Bitcoin code base, implements a hybrid proof-of-stake/proof-of-work blockchain, allows for 1% inflation.
 
@@ -366,21 +404,24 @@ US based exchange.
 
 ## QTUM
 
-[site](qtum.org)
-[wikipedia](https://en.wikipedia.org/wiki/Qtum)
+[Website](qtum.org)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Qtum)
+[Source Code](https://github.com/qtumproject)
 
 Hybrid Bitcoin _and_ Ethereum based blockchain (thus supporting EVM based smart contracts) which runs on proof-of-stake and is based in China and Singapore.
 
 ## Reddcoin
 
-[site](https://www.reddcoin.com/)
+[Website](https://www.reddcoin.com/)
+[Source Code](https://github.com/reddcoin-project/reddcoin)
 
-Focussed on tipping for social networks (first and foremost Reddit). Code forked from Litecoin, now runs on proof-of-stake.
+Focussed on tipping for social networks (first and foremost Reddit). Code forked from Litecoin, thus runs on proof-of-stake.
 
 ## Ripple (XRP)
 
-[site](https://ripple.com/)
-[wikipedia](https://en.wikipedia.org/wiki/Ripple_(company))
+[Website](https://ripple.com/)
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Ripple_(company)>)
+[Source Code](https://github.com/ripple/rippled)
 
 Payments & settlement network uses a select handful of validators verify transactions via consensus rather than a blockchain. Multiple tokens can represent things such as fiat or a commodity. Aimed at bank to bank transactions.
 
@@ -430,7 +471,8 @@ Todo
 
 ## Zerocoin
 
-[wikipedia](https://en.wikipedia.org/wiki/Zerocoin)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Zerocoin)
+[Source Code](https://github.com/zcoinofficial/zcoin)
 
 ## Zcash
 
@@ -438,4 +480,10 @@ Todo
 
 ### Notes
 
-In part inspired by [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english), aspires to be [written like it might be said](http://www.paulgraham.com/talk.html).
+Inspired in part by [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english), and it aspires to be [written like it might be said](http://www.paulgraham.com/talk.html).
+
+### See Also
+
+* [Wikipedia's list of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
+* [New Block Crypto's cryptocurrency glossary](https://newblockcrypto.com/cryptocurrency-glossary/)
+* [Cryptocompare](https://www.cryptocompare.com/coins/)
