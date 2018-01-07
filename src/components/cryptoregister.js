@@ -1,10 +1,10 @@
 import React from 'react';
 import Markdown from 'react-markdown';
-import HelpBanner from './help-banner';
-import marked from 'marked';
 import styled, { injectGlobal } from 'styled-components';
-import Head from './head';
 import { linkButtonStyles } from '../common-styles';
+import Head from './head';
+import Header from './header';
+import Logo from './logo';
 
 injectGlobal`
   html {
@@ -12,8 +12,7 @@ injectGlobal`
     font-size: 18px;
   }
 
-  html,
-  .base-font {
+  html {
     font-family: 'Tinos', serif;
     box-sizing: border-box;
     line-height: 1.4em;
@@ -32,8 +31,7 @@ injectGlobal`
   h3,
   h4,
   h5,
-  h6,
-  .title-font {
+  h6 {
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI',
       'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
       sans-serif;
@@ -103,57 +101,6 @@ const Body = styled.body`
   }
 `;
 
-const Header = styled.header`
-  padding: 0 0.5rem;
-  top: 0;
-  width: 100%;
-  margin-bottom: 1em;
-
-  @media (min-width: 800px) {
-    float: right;
-    max-width: 600px;
-    margin-bottom: 0;
-    padding: 0 0 0 1rem;
-  }
-
-  > h2 {
-    font-weight: normal;
-    font-style: italic;
-    font-size: 1.3rem;
-    margin: 1em 0.25rem 2em;
-    opacity: 0.5;
-  }
-`;
-
-const Title = styled.h1`
-  background: white;
-  font-family: 'Tinos', serif;
-  font-size: 1.4rem;
-  left: 0;
-  line-height: 2.5rem;
-  margin: 0;
-  padding-left: 3%;
-  position: fixed;
-  text-transform: uppercase;
-  top: 0;
-  width: 100%;
-  z-index: 100;
-
-  > span {
-    color: #2380ce;
-  }
-
-  @media (min-width: 400px) {
-    font-size: 1.6rem;
-  }
-
-  @media (min-width: 800px) {
-    position: initial;
-    padding-top: 1em;
-    padding-left: 0;
-  }
-`;
-
 const Footer = styled(Markdown)`
   margin: 2rem 0.5rem;
   padding: 1.5rem 0.25rem;
@@ -191,15 +138,7 @@ export default ({ definitionsMarkdown, furtherInformationMarkdown }) => (
   <html>
     <Head />
     <Body>
-      <Header>
-        <Title>
-          Cryptoregister<span>.</span>io
-        </Title>
-        <h2 className="base-font">
-          Simple descriptions of cryptocurrency terms and projects.
-        </h2>
-        <HelpBanner />
-      </Header>
+      <Header />
       <Definitions source={definitionsMarkdown} />
       <Footer source={furtherInformationMarkdown} />
     </Body>
