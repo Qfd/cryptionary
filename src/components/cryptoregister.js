@@ -64,6 +64,8 @@ const Definitions = styled(Markdown)`
     font-size: 0.7em;
     ${linkButtonStyles};
 
+    margin: 0.5em 1em 0.5em 0;
+
     &::after {
       content: '\uE157';
       margin-left: 0.5em;
@@ -73,10 +75,6 @@ const Definitions = styled(Markdown)`
 
     &:first-of-type {
       margin-left: 0;
-    }
-
-    &:last-of-type {
-      margin-right: 0;
     }
   }
 
