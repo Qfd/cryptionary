@@ -45,10 +45,8 @@ const Title = styled.h1`
   }
 
   > svg {
-    float: left;
-    height: 2.5rem;
+    height: 2rem;
     margin: 0 1%;
-    vertical-align: text-bottom;
     width: 2rem;
   }
 
