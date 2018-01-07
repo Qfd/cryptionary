@@ -74,7 +74,10 @@ A major exchange, once hacked, possibly with some curious links to Tether. Based
 
 ## Bitpay
 
-Todo
+[Website](https://bitpay.com/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/BitPay)
+
+A Payment processor which allows merchants to accept Bitcoin and receive local currency. They also sponsor some of Bitcoin core’s development and have worked to spread Bitcoin's adoption generally. High transaction fees on the bitcoin network have not helped their business.
 
 ## Bithumb
 
@@ -132,6 +135,13 @@ Open source wallet software, now deprecated as the company focusses on enterpris
 ## Colored Coins
 
 Todo
+
+## Copay
+
+[Website](https://copay.io/)
+[source code](https://github.com/bitpay/bitcore-wallet-service)
+
+Bitcoin wallet software developed by BitPay.
 
 ## CryptoNote
 
