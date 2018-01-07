@@ -15,14 +15,16 @@ const [_, definitionsMarkdown, furtherInformationMarkdown] = readme.split(
 console.info(`${definitionsMarkdown.match(/##/g).length} defintions found`);
 
 const sheet = new ServerStyleSheet();
-const html = ReactDOMServer.renderToStaticMarkup(
-  sheet.collectStyles(
-    <Cryptoregister
-      definitionsMarkdown={definitionsMarkdown}
-      furtherInformationMarkdown={furtherInformationMarkdown}
-    />
-  )
-);
+const html =
+  '<!doctype html>' +
+  ReactDOMServer.renderToStaticMarkup(
+    sheet.collectStyles(
+      <Cryptoregister
+        definitionsMarkdown={definitionsMarkdown}
+        furtherInformationMarkdown={furtherInformationMarkdown}
+      />
+    )
+  );
 
 const css = sheet.getStyleTags().replace(/<\/?style.*>/g, '');
 

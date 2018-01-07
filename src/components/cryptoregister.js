@@ -135,7 +135,7 @@ const Footer = styled(Markdown)`
 `;
 
 export default ({ definitionsMarkdown, furtherInformationMarkdown }) => (
-  <html>
+  <html lang="en">
     <Head />
     <Body>
       <Header />

@@ -1,7 +1,8 @@
 {
   "name": "cryptoregister",
   "version": "1.0.0",
-  "description": "Simple descriptions of cryprocurrency names / projects. Restricted to proper-nouns.",
+  "description":
+    "Simple descriptions of cryptocurrency names / projects. Restricted to proper-nouns.",
   "directories": {
     "doc": "docs"
   },
