@@ -446,11 +446,23 @@ An improvement to the Bitcoin protocol (and has been implemented in other protoc
 
 Tokens as a service: built on top of Ethereum to allows others to easily create their own tokens (called "Branded Tokens"), plus tools to manage them. Has it's own Token (OST) as an intermediary.
 
+## Solidity
+
+[Website](http://solidity.readthedocs.io/en/develop/index.html)
+[Source Code](https://github.com/ethereum/solidity)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Solidity)
+
+A programming language that can be used to write smart contracts that run on the Ethereum blockchain.
+
 ## Stellar
 
 Todo
 
 ## Storj
+
+Todo
+
+## Tendermint
 
 Todo
 
