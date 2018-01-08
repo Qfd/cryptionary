@@ -447,7 +447,7 @@ Hybrid Bitcoin _and_ Ethereum based blockchain (thus supporting EVM based smart 
 [Website](https://raiden.network/)
 [Source Code](https://github.com/raiden-network/raiden)
 
-A lightning-network implementation for the Ethereum network. It helps to improve scalability by collating many smaller transactions, the net results of which can be periodically written to the main chain.
+A lightning-network implementation for Ethereum. It helps to improve scalability by collating many smaller transactions, the net results of which can be periodically written to the main chain.
 
 ## Reddcoin
 
@@ -558,7 +558,7 @@ Implementation of the Zerocoin protocol.
 
 # Zerocash
 
-
+Todo
 
 ---
 
