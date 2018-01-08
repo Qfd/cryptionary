@@ -42,7 +42,7 @@ A network for developing decentralized apps, blockchain agnostic, considered “
 
 A major coin exchange based in South Korea.
 
-## Bitcoin (Core) (BTC)
+## Bitcoin (Core) (BTC/XBT)
 
 [Website](https://bitcoin.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Bitcoin)
@@ -64,6 +64,10 @@ Forked from Bitcoin August 1st 2017, for complex reasons including political and
 [Source Code](https://github.com/BTCGPU/BTCGPU)
 
 Fork of Bitcoin and split of the Bitcoin blockchain in an attempt to further decentralize the blockchain by reducing the effectiveness of specialized hardware (ASICs).
+
+## Bitcoin-NG
+
+Todo
 
 ## Bitfinex
 
@@ -384,6 +388,10 @@ Formerly Antshares, NEO is a blockchain supporting smart contracts and is often 
 
 Proof-of-stake blockchain, designed to be a platform upon which applications & financial services could be built. Includes an integrated exchange, upon which user-created tokens can be traded.
 
+## Omise GO (OMG)
+
+Todo
+
 ## Omni Layer
 
 [Website](http://www.omnilayer.org/)
@@ -411,7 +419,14 @@ Fork of the Bitcoin code base, implements a hybrid proof-of-stake/proof-of-work 
 
 [Website](https://plasma.io/)
 
-Todo
+A proposed improvement to Ethereum that helps to improve scalability via the use of side-chains which are periodically validated against the main blockchain.
+
+## Polkadot
+
+[Website](https://polkadot.io/)
+[Source Code](https://github.com/paritytech/polkadot)
+
+A project created by an Ethereum Founder (Gavin Wood) to link different blockchains together, allowing them to communicate and validating their state. Currently some code forms part of the Parity code base.
 
 ## Poloniex
 
@@ -432,7 +447,7 @@ Hybrid Bitcoin _and_ Ethereum based blockchain (thus supporting EVM based smart 
 [Website](https://raiden.network/)
 [Source Code](https://github.com/raiden-network/raiden)
 
-Todo
+A lightning-network implementation for Ethereum. It helps to improve scalability by collating many smaller transactions, the net results of which can be periodically written to the main chain.
 
 ## Reddcoin
 
@@ -471,7 +486,11 @@ A programming language that can be used to write smart contracts that run on the
 
 ## Stellar
 
-Todo
+[Website](https://www.stellar.org/)
+[Source Code](https://github.com/stellar/stellar-core)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Stellar_(payment_network))
+
+A blockchain originally forked from Ripple (by one of Ripple's founders, Jed McCaleb), with fast (2-5 second) transaction times, settled via the Stellar Consensus Protocol. It has a distributed exchange baked in and has tokens representing different assets, such Dollars, Euros and it's own currency called Lumens.
 
 ## Storj
 
@@ -483,34 +502,61 @@ Todo
 
 ## Tether
 
-Todo
+[Website](https://tether.to/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
+
+A token issued with the Omni Layer protocol (thus using the Bitcoin blockchain) that is pegged to the dollar (i.e. 1 tether is always worth 1 dollar), designed to make exchange between currencies easier. Linked to Bitfinex in the Panama papers leak.
 
 ## Tezos
 
-Todo
+[Website](https://www.tezos.com/)
+[Source Code](https://github.com/tezos/tezos)
 
-## Tron
+A blockchain and smart contract platform (which runs the Michelson programming language) often compared to Ethereum. It has a structured protocol improvement process, is due for release in February 2018 and raised a $238m at ICO, a record at the time.
 
-Todo
 
 ## Ubiq (UBQ)
 
-Todo
+[Website](https://ubiqsmart.com/)
+[Source Code](https://github.com/ubiq)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Ubiq)
 
-## Verge
+A fork of Ethereum adjusted to have a deflationary monetary system (similar to Bitcoin), based in China.
 
-Todo
+## Verge (XVG)
+
+[Website](https://vergecurrency.com/)
+[Source Code](https://github.com/vergecurrency/VERGE)
+
+A fork of Bitcoin adapted to run on the TOR network to increase the level of anonymity (thus ensuring IP addresses of incoming transactions can't be traced).
 
 ## Waves Network
 
-Todo
+[Website](https://wavesplatform.com/)
+[Source Code](https://github.com/wavesplatform/Waves)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Waves_platform)
+
+A blockchain platform running proof of stake, using Waves-NG (derived directly from Bitcoin-NG) with an integrated decentralized exchange. Any user can easily create their own tokens through the wallet software and basic smart contracts are under development.
+
+## Zcash
+
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Zcash)
+[Source Code](https://github.com/zcash/zcash)
+
+Implementation of the Zerocash protocol.
+
+## Zcoin
+
+[Website](https://zcoin.io/)
+
+Implementation of the Zerocoin protocol.
 
 ## Zerocoin
 
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Zerocoin)
 [Source Code](https://github.com/zcoinofficial/zcoin)
 
-## Zcash
+# Zerocash
 
 Todo
 
