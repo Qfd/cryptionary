@@ -134,7 +134,9 @@ Open source wallet software, now deprecated as the company focusses on enterpris
 
 ## Colored Coins
 
-Todo
+[Wikipedia](https://en.wikipedia.org/wiki/Colored_coin)
+
+A term for alt coins (often fungible in nature) that are designed to be linked to real world assets - i.e. ownership of a specific coin entitles you to ownership of a real-world thing, such as a car, property or share certificate.
 
 ## Copay
 
@@ -196,7 +198,13 @@ Fork of Bitshares/Graphene looking to be an Ethereum competitor, built in Web As
 
 ## ERC-20
 
-Todo
+[Source Code](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md)
+
+An interface specification for standardizing Ethereum tokens. By implementing the given methods and properties, it allows the tokens to work with other things such as exchanges and wallets predictably.
+
+## ERC-721
+
+An interface specification for standardizing _non-fungible_ Ethereum tokens. Allows for predicable behavior and interaction. First popular implementation was by Cryptokitties.
 
 ## EtherDelta
 
@@ -291,7 +299,7 @@ Major exchange based in the US, selected as the "trustee" for MtGox which allows
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Lightning_Network)
 [Source Code](https://github.com/lightningnetwork/lnd)
 
-Layer 2 solution for Bitcoin payments using off-chain channels between users designed to solve scalability issues.
+Layer 2 solution for Bitcoin payments using off-chain channels between users designed to solve scalability issues. The Ethereum implementation of this is called Raiden.
 
 ## Lisk (LSK)
 
@@ -318,7 +326,7 @@ Blockchain + coin enabling a decentralized file store and code execution, allowi
 
 ## MasterCoin
 
-Todo
+Now rebranded Omni Layer, it was originally a fork of Bitcoin designed to offer additional functionality.
 
 ## Mist Browser
 
@@ -418,6 +426,13 @@ US based exchange.
 [Source Code](https://github.com/qtumproject)
 
 Hybrid Bitcoin _and_ Ethereum based blockchain (thus supporting EVM based smart contracts) which runs on proof-of-stake and is based in China and Singapore.
+
+## Raiden
+
+[Website](https://raiden.network/)
+[Source Code](https://github.com/raiden-network/raiden)
+
+Todo
 
 ## Reddcoin
 
