@@ -540,6 +540,7 @@ A blockchain platform running proof of stake, using Waves-NG (derived directly f
 
 ## Zcash
 
+[Website](https://z.cash/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Zcash)
 [Source Code](https://github.com/zcash/zcash)
 
@@ -556,7 +557,11 @@ Implementation of the Zerocoin protocol.
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Zerocoin)
 [Source Code](https://github.com/zcoinofficial/zcoin)
 
-# Zerocash
+Todo
+
+## Zerocash
+
+[Website](http://zerocash-project.org/)
 
 Todo
 
