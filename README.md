@@ -19,7 +19,7 @@ A decentralized Ethereum exchange that aims to solve some of the issues with oth
 [Wikipedia Entry](https://en.wikipedia.org/wiki/ARDOR)
 [Source Code](https://bitbucket.org/Jelurida/ardor/src)
 
-Successor to [NXT](#nxt). It has a number of "child-chains" and coins in an attempt to solve scalability issues.
+A blockchain & coin with a focus on business applications, that is the successor to [NXT](#nxt). It has a number of "child-chains" and coins in an attempt to solve scalability issues, the first of which is called "Ignis".
 
 ## Bancor
 
@@ -27,6 +27,13 @@ Successor to [NXT](#nxt). It has a number of "child-chains" and coins in an atte
 [Source Code](https://github.com/bancorprotocol/contracts)
 
 An Ethereum based project to improve interchange between ERC20-ish coins (smart tokens), via an intermediary token (BNT).
+
+## Bcoin
+
+[Website](http://bcoin.io/)
+[Source Code](https://github.com/bcoin-org/bcoin)
+
+A full node Bitcoin implementation written in Javascript.
 
 ## Blockstack
 
@@ -390,7 +397,7 @@ Proof-of-stake blockchain, designed to be a platform upon which applications & f
 
 ## Omise GO (OMG)
 
-Todo
+A project built partially on Ethereum (as well as it's own blockchain) that plans to use Plasma for scalability. The focus is on bringing a variety of financial services to Asian markets. The OMG token is an ERC-20 token.
 
 ## Omni Layer
 
@@ -433,6 +440,14 @@ A project created by an Ethereum Founder (Gavin Wood) to link different blockcha
 [Website](https://poloniex.com/)
 
 US based exchange.
+
+## Primecoin
+
+[Website](http://primecoin.io/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Primecoin)
+[Source Code](https://github.com/primecoin/primecoin)
+
+An early fork of Bitcoin with an adapted proof-of-work function that involves searching for new prime numbers (i.e. doing something actually useful). Also has a reduced (1 minute rather than 10) block time.
 
 ## QTUM
 
