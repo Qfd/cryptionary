@@ -11,7 +11,7 @@ Simple descriptions of cryptocurrency names / projects. Restricted to proper-nou
 [Website](https://www.airswap.io/)
 [Source Code](https://github.com/airswap/contracts)
 
-A decentralized Ethereum exchange that aims to solve some of the issues with other decentralized exchanges with their _swap_ protocol.
+A decentralized exchange for ERC20 tokens built on Ethereum which aims to solve some of the issues with other decentralized exchanges with their SWAP protocol.
 
 ## Ardor
 
@@ -222,7 +222,7 @@ An interface specification for standardizing _non-fungible_ Ethereum tokens. All
 [Website](https://etherdelta.com/)
 [Source Code](https://github.com/etherdelta/smart_contract)
 
-A decentralized exchange for Ethereum based tokens.
+An early Ethereum based decentralized exchange that allows the trade of ERC20 tokens.
 
 ## Ethereum (ETH)
 
@@ -579,6 +579,13 @@ Todo
 [Website](http://zerocash-project.org/)
 
 Todo
+
+## 0xProject
+
+[Website](https://0xproject.com/)
+[Source Code](https://github.com/0xProject/contracts)
+
+A decentralised exchange for ERC20 tokens, built on the Ethereum blockchain.
 
 ---
 
