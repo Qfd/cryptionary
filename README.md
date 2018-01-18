@@ -239,6 +239,19 @@ Blockchain and coin with Turing complete scripting abilities via the Ethereum Vi
 
 Hard fork of Ethereum blockchain pre-DAO attack.
 
+## Falcon Network
+
+[Website](https://www.falcon-net.org/)
+
+A network of Bitcoin nodes optimised for the fast communication of block information for miners. It allows for improved efficiency across the system (fewer orphans, reduced wasted hash power).
+
+## FIBRE Network
+
+[Website](http://bitcoinfibre.org/)
+[Source Code](https://github.com/bitcoinfibre/bitcoinfibre)
+
+A network designed for fast block transfer - see Falcon Network above.
+
 ## FileCoin (FIL)
 
 [Website](https://filecoin.io/)
@@ -503,7 +516,7 @@ A programming language that can be used to write smart contracts that run on the
 
 [Website](https://www.stellar.org/)
 [Source Code](https://github.com/stellar/stellar-core)
-[Wikipedia Entry](https://en.wikipedia.org/wiki/Stellar_(payment_network))
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Stellar_(payment_network)>)
 
 A blockchain originally forked from Ripple (by one of Ripple's founders, Jed McCaleb), with fast (2-5 second) transaction times, settled via the Stellar Consensus Protocol. It has a distributed exchange baked in and has tokens representing different assets, such Dollars, Euros and it's own currency called Lumens.
 
@@ -518,7 +531,7 @@ Todo
 ## Tether
 
 [Website](https://tether.to/)
-[Wikipedia Entry](https://en.wikipedia.org/wiki/Tether_(cryptocurrency))
+[Wikipedia Entry](<https://en.wikipedia.org/wiki/Tether_(cryptocurrency)>)
 
 A token issued with the Omni Layer protocol (thus using the Bitcoin blockchain) that is pegged to the dollar (i.e. 1 tether is always worth 1 dollar), designed to make exchange between currencies easier. Linked to Bitfinex in the Panama papers leak.
 
@@ -528,7 +541,6 @@ A token issued with the Omni Layer protocol (thus using the Bitcoin blockchain) 
 [Source Code](https://github.com/tezos/tezos)
 
 A blockchain and smart contract platform (which runs the Michelson programming language) often compared to Ethereum. It has a structured protocol improvement process, is due for release in February 2018 and raised a $238m at ICO, a record at the time.
-
 
 ## Ubiq (UBQ)
 
