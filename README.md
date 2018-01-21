@@ -43,6 +43,19 @@ A full node Bitcoin implementation written in Javascript.
 
 A network for developing decentralized apps, blockchain agnostic, considered “tier 2” infrastructure.
 
+## Blockstream
+
+[Website](https://www.blockstream.com/)
+[Wikipedia Entry](https://en.wikipedia.org/wiki/Blockstream)
+
+A company that funds work on Bitcoin Core and a number of other initiatives including Lightning Network and Hyperledger. Their own products include Liquid sidechain and Blockstream Satellite.
+
+## Blockstream Satellite
+
+[Website](https://blockstream.com/satellite/blockstream-satellite/)
+
+A project to enable access to the Bitcoin core network without requiring an Internet connection.
+
 ## Binance
 
 [Website](https://www.binance.com)
@@ -62,7 +75,7 @@ Original, flagship, crypto currency.
 [Website](https://www.bitcoincash.org/)
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Bitcoin_Cash)
 
-Forked from Bitcoin August 1st 2017, for complex reasons including political and opinions on scaling (Block size/lightning Network).
+Forked from Bitcoin August 1st 2017, for complex reasons including political and opinions on scaling. Critically, it doesn't include SegWit and opted for a flat increase in block size.
 
 ## Bitcoin Gold (BTG)
 
@@ -72,9 +85,19 @@ Forked from Bitcoin August 1st 2017, for complex reasons including political and
 
 Fork of Bitcoin and split of the Bitcoin blockchain in an attempt to further decentralize the blockchain by reducing the effectiveness of specialized hardware (ASICs).
 
+## Bitcoin XT
+
+[Website](https://bitcoinxt.software/)
+[Wikipedia](https://en.wikipedia.org/wiki/Bitcoin_XT)
+[Source Code](https://github.com/bitcoinxt/bitcoinxt)
+
+A Bitcoin fork that allows for miners to vote on the controversial topic of block size, rather than utilizing SegWit.
+
 ## Bitcoin-NG
 
-Todo
+[Website](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf)
+
+An alternive blockchain protocol, designed to increase throughput and reduce latency with supposedly few downsides. A variant of this approach is used in Waves Network.
 
 ## Bitfinex
 
@@ -502,7 +525,7 @@ An improvement to the Bitcoin protocol (and has been implemented in other protoc
 
 [Website](https://simpletoken.org/)
 
-Tokens as a service: built on top of Ethereum to allows others to easily create their own tokens (called "Branded Tokens"), plus tools to manage them. Has it's own Token (OST) as an intermediary.
+Tokens as a service: built on top of Ethereum to allows others to easily create their own ERC-20 tokens (called "Branded Tokens"), plus tools to manage them. Has it's own ERC-20 token (OST) as an intermediary.
 
 ## Solidity
 
