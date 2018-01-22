@@ -216,6 +216,10 @@ Created as a parody of Bitcoin, with which it shares the same early code base wi
 
 Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
 
+## Cosmos
+
+Todo
+
 ## Electrum
 
 [Website](https://electrum.org/#home)
@@ -261,6 +265,10 @@ Blockchain and coin with Turing complete scripting abilities via the Ethereum Vi
 [Wikipedia Entry](https://en.wikipedia.org/wiki/Ethereum_Classic)
 
 Hard fork of Ethereum blockchain pre-DAO attack.
+
+## Ethermint
+
+Todo
 
 ## Falcon Network
 
