@@ -185,6 +185,19 @@ A term for alt coins (often fungible in nature) that are designed to be linked t
 
 Bitcoin wallet software developed by BitPay.
 
+## Corda
+
+[Website](https://www.corda.net/)
+[Source Code](https://github.com/corda/corda)
+
+Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
+
+## Cosmos
+
+[Website](https://cosmos.network/)
+
+Todo
+
 ## CryptoNote
 
 [Website](https://cryptonote.org/)
@@ -214,19 +227,6 @@ Blockchain & coin run on a two tier node system (master / mining) with additiona
 [Source Code](https://github.com/dogecoin/dogecoin)
 
 Created as a parody of Bitcoin, with which it shares the same early code base with a few tweaked parameters (e.g. a 1 minute block time, utilization of Scrypt rather than SHA-256). Much scandal.
-
-## Corda
-
-[Website](https://www.corda.net/)
-[Source Code](https://github.com/corda/corda)
-
-Distributed ledger (not blockchain) platform designed to be a private network between financial institutions, built by R3.
-
-## Cosmos
-
-[Website](https://cosmos.network/)
-
-Todo
 
 ## Electrum
 
