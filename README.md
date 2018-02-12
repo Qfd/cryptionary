@@ -106,6 +106,12 @@ An alternive blockchain protocol, designed to increase throughput and reduce lat
 
 A major exchange, once hacked, possibly with some curious links to Tether. Based in Taiwan.
 
+## Bitgrail
+
+[Website](https://bitgrail.com)
+
+A cryptocurrency exchange based in Italy with a focus on Nano. Hacked in February 2018 for 17 million Nano (~ $170 million).
+
 ## Bitpay
 
 [Website](https://bitpay.com/)
@@ -218,6 +224,8 @@ Distributed ledger (not blockchain) platform designed to be a private network be
 
 ## Cosmos
 
+[Website](https://cosmos.network/)
+
 Todo
 
 ## Electrum
@@ -267,6 +275,8 @@ Blockchain and coin with Turing complete scripting abilities via the Ethereum Vi
 Hard fork of Ethereum blockchain pre-DAO attack.
 
 ## Ethermint
+
+[Source Code](https://github.com/tendermint/ethermint)
 
 Todo
 
@@ -415,6 +425,13 @@ The original, now defunct, Bitcoin exchange, hacked multiple times. Was based in
 
 Blockchain and coin (originally set up to use the Bitcoin blockchain) that is used to manage ownership of .bit domain names and could in principle be used to manage other naming/ownership systems.
 
+## Nano (XRB)
+
+[Website](https://nano.org/)
+[Source Code](https://github.com/clemahieu/raiblocks)
+
+Formerly Raiblocks, Nano offers instant, free transactions via a "lattice" structure, rather than a typical blockchain, where each transfer requires a "send" and a "receive" transaction.
+
 ## Nem (XEM)
 
 [Website](https://nem.io/)
@@ -528,6 +545,12 @@ Payments & settlement network uses a select handful of validators verify transac
 [Wikipedia Entry](https://en.wikipedia.org/wiki/SegWit)
 
 An improvement to the Bitcoin protocol (and has been implemented in other protocols such as Litecoin) which involves separating the signature (Witness) data from the transactions allowing for improved security and reduced blocksize.
+
+## SegWit2x
+
+[Wikipedia Entry](https://en.wikipedia.org/wiki/SegWit2x)
+
+Todo
 
 ## SimpleToken (OST)
 
@@ -643,3 +666,4 @@ Inspired in part by [AWS in plain english](https://www.expeditedssl.com/aws-in-p
 * [Wikipedia's list of cryptocurrencies](https://en.wikipedia.org/wiki/List_of_cryptocurrencies)
 * [New Block Crypto's cryptocurrency glossary](https://newblockcrypto.com/cryptocurrency-glossary/)
 * [Cryptocompare](https://www.cryptocompare.com/coins/)
+* [Map Of Coins](http://mapofcoins.com/)
